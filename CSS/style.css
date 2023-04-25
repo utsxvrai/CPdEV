@@ -18,25 +18,25 @@ ul{
 
 .dark{
     padding: 15px;
-    background: #060632;
+    background: #3C1742;
     color: #ffffff;
     margin-top: 10px;
     margin-bottom: 10px;
 
 }
 .highlight{
-    color: #D58936;
+    color: #e84918;
     font-weight: bold;
 }
 
 /* header */
 
 header{
-    background: #F9A03F;
+    background: #e6e6e6;
     color: #ffffff;
     padding-top: 0;
     min-height: 70px;
-    border-bottom: #000000 3px solid ;
+   /* /\ border-bottom: #000000 3px solid ; */
 }
 header a{
     color: #060632;
@@ -63,7 +63,7 @@ header nav{
 }
 
 header .highlight , header .current a{
-    color: #ffffff;
+    color: #e84918;
     font-weight: bold;
 }
 
@@ -78,7 +78,7 @@ header a:hover{
     min-height: 400px;
     text-align: center;
     color: #060632;
-    background: #A6E1FA ;
+    background: #e6e6e6 ;
 }
 
 #showcase h1{
@@ -123,7 +123,7 @@ header a:hover{
 
 #boxes{
     margin-top: 0px;
-    background: #A6E1FA;
+    background: #e6e6e6;
 }
 
 #boxes .box{
